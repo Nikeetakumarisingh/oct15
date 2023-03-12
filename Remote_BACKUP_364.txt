@@ -4,4 +4,3 @@ Line 2 addded from local
 =======
 Line 2 added from remote
 >>>>>>> origin/master
-Line 3 added from hotfix
